@@ -1,2 +1,0 @@
-# PROGNUM-repo
-Prognum
