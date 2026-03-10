@@ -1,0 +1,7 @@
+clusters = [
+    "Virgo Cluster",
+    "Coma Cluster",
+    "Fornax Cluster",
+    "Hercules Cluster",
+    "Pandora's Cluster"
+]
